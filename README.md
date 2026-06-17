@@ -1,5 +1,7 @@
 # Customer Churn Analytics
 
+Project link: https://customer-churn-analytics-dash.streamlit.app/
+
 ## Overview
 
 Customer churn is a critical challenge in the banking industry, as retaining existing customers is often more cost-effective than acquiring new ones.
