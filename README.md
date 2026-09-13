@@ -77,22 +77,24 @@ The dataset contains customer demographic, account, and engagement information, 
 
 ## Project Structure
 
-Customer_Churn_Analytics
-│
-├── app/
-│   └── app.py
-│
-├── data/
-│   └── Churn_Modelling.csv
-│
-├── images/
-│   └── dashboard_home.jpeg
-│   └── notebook_overview.jpeg
-│
-├── notebooks/
-│   └── churn_analysis.ipynb
-│
-└── README.md
+<pre>
+  Customer_Churn_Analytics
+  │
+  ├── app/
+  │   └── app.py
+  │
+  ├── data/
+  │   └── Churn_Modelling.csv
+  │
+  ├── images/
+  │   └── dashboard_home.jpeg
+  │   └── notebook_overview.jpeg
+  │
+  ├── notebooks/
+  │   └── churn_analysis.ipynb
+  │
+  └── README.md
+</pre>
 
 ## Future Improvements
 
